@@ -54,6 +54,7 @@ namespace HidingCatalyst {
         public void Encrypt(string path, string key) {
             crypt.setKey(key, "password");
             enc.EncryptFolder(_path);
+	    MessageBox.Show("Encryption Finished");
         }
 
         public void Decrypt(string path, string key) {

