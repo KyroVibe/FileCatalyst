@@ -1,0 +1,10 @@
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\bin\Release\n30s FIle Catalyst.exe.config
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\bin\Release\n30s FIle Catalyst.exe
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\bin\Release\n30s FIle Catalyst.pdb
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Release\HidingCatalyst.Catalyst.resources
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Release\n30sFileCatalyst.Properties.Resources.resources
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Release\HidingCatalyst.csproj.GenerateResource.cache
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Release\HidingCatalyst.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Release\n30s FIle Catalyst.exe
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Release\n30s FIle Catalyst.pdb
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Release\HidingCatalyst.csprojResolveAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HidingCatalyst", "HidingCatalyst\HidingCatalyst.csproj", "{3D204050-7295-42CC-96FA-4760BB5DE365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "n30encryption", "..\n30encryption\n30encryption\n30encryption.csproj", "{F89D8694-9712-4307-94D3-0C3B754AD4EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D204050-7295-42CC-96FA-4760BB5DE365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D204050-7295-42CC-96FA-4760BB5DE365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D204050-7295-42CC-96FA-4760BB5DE365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D204050-7295-42CC-96FA-4760BB5DE365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89D8694-9712-4307-94D3-0C3B754AD4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89D8694-9712-4307-94D3-0C3B754AD4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89D8694-9712-4307-94D3-0C3B754AD4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89D8694-9712-4307-94D3-0C3B754AD4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA1F042B-428A-441F-ADDB-CB1231E277B9}
+	EndGlobalSection
+EndGlobal

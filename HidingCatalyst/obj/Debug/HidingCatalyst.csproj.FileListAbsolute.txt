@@ -1,0 +1,13 @@
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Debug\HidingCatalyst.csprojResolveAssemblyReference.cache
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Debug\HidingCatalyst.Catalyst.resources
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Debug\HidingCatalyst.Properties.Resources.resources
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Debug\HidingCatalyst.csproj.GenerateResource.cache
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Debug\HidingCatalyst.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\bin\Debug\HidingCatalyst.exe.config
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\bin\Debug\HidingCatalyst.exe
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\bin\Debug\HidingCatalyst.pdb
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\bin\Debug\n30encryption.dll
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\bin\Debug\n30encryption.pdb
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Debug\HidingCatalyst.csproj.CopyComplete
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Debug\HidingCatalyst.exe
+C:\Users\Hunter\Source\Repos\HidingCatalyst\HidingCatalyst\obj\Debug\HidingCatalyst.pdb
